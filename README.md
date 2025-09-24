@@ -1,12 +1,12 @@
-# ✌ Me Motive ! Gerador de Frases Motivacionais
+# ✌ Me Mimique ! -  Ideias de mímica para brincar
 
-Visualizar Projeto: [Clique aqui](https://moraislucas.github.io/MeMotive/)
+Visualizar Projeto Original: [Clique aqui](https://moraislucas.github.io/MeMotive/)
 <br>
 
-## Projeto
+## Projeto Original
 
 Me Motive é uma aplicação para treino de Fetch API. É um gerador de frases motivacionais para dar um up no seu dia.
-Neste projeto utilizei uma API criada por mim com arquivos .JSON para treino de contrução e consumo de API's com Fetch do JS.
+Neste projeto é utilizada uma API criada por Lucas Morais (autor) com arquivos .JSON para treino de contrução e consumo de API's com Fetch do JS.
 Frases e Cores são puxadas de forma dinamica e mostradas ao usuario. 
 <br>
 

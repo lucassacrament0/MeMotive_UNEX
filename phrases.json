@@ -1,205 +1,53 @@
-[{
-        "id": 0,
-        "quote": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo."
-    },
-    {
-        "id": 1,
-        "quote": "Um homem pode ser tão grande quanto ele queira ser. Se você acredita em si mesmo e tem coragem, determinação, dedicação, iniciativa competitiva e se você está disposto a sacrificar as pequenas coisas da vida e pagar o preço pelas coisas que valem a pena, isso pode ser feito."
-    },
-    {
-        "id": 2,
-        "quote": "Não deixe que o medo de perder seja maior que a excitação de vencer."
-    },
-    {
-        "id": 3,
-        "quote": "Na minha experiência, há só uma motivação, e isso é o desejo. Nenhuma razão ou princípio contêm ele ou se levantam contra ele."
-    },
-    {
-        "id": 4,
-        "quote": "Dificuldades reais podem ser superadas; apenas as imaginárias são insuperáveis."
-    },
-    {
-        "id": 5,
-        "quote": "A fortuna fica ao lado daquele que ousa."
-    },
-    {
-        "id": 6,
-        "quote": "Aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem."
-    },
-    {
-        "id": 7,
-        "quote": "Pessoas raramente obtêm sucesso a menos que se divirtam com o que fazem."
-    },
-    {
-        "id": 8,
-        "quote": "Não tenha medo de desistir do bom para ir ao grande."
-    },
-    {
-        "id": 9,
-        "quote": "Você tem que acordar cada manhã com determinação se você quer ir para a cama com satisfação."
-    },
-    {
-        "id": 10,
-        "quote": "Há dois tipos de pessoas que dirão que você não pode fazer diferença nesse mundo: aquelas que têm medo de tentar e aquelas que temem que você consiga."
-    },
-    {
-        "id": 11,
-        "quote": "Você deve esperar grandes coisas de você mesmo antes de poder fazê-las."
-    },
-    {
-        "id": 12,
-        "quote": "Ninguém pode fazer você se sentir inferior sem o seu consentimento."
-    },
-    {
-        "id": 13,
-        "quote": "Pessoas bem-sucedidas fazem o que pessoas mal-sucedidas não estão dispostas a fazer. Não desejam que seja mais fácil, mas que sejam melhores."
-    },
-    {
-        "id": 14,
-        "quote": "Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer."
-    },
-    {
-        "id": 15,
-        "quote": "Se você não está disposto a arriscar o habitual, você terá que se contentar com o normal."
-    },
-    {
-        "id": 16,
-        "quote": "Pegue uma ideia. Faça dessa única ideia a sua vida - pense nela, sonhe com ela, viva essa ideia. Este é o caminho para o sucesso."
-    },
-    {
-        "id": 17,
-        "quote": "A razão número um para as pessoas falharem na vida é porque ouvem seus amigos, família e vizinhos."
-    },
-    {
-        "id": 18,
-        "quote": "Nada no mundo é mais comum que pessoas mal-sucedidas com talento."
-    },
-    {
-        "id": 19,
-        "quote": "A função da liderança é produzir mais líderes, não seguidores."
-    },
-    {
-        "id": 20,
-        "quote": "Para realizar grandes coisas, devemos não apenas agir, mas também sonhar, não apenas planejar, mas também acreditar."
-    },
-    {
-        "id": 21,
-        "quote": "Boas coisas vêm para as pessoas que esperam, mas coisas ainda melhores vêm para aquelas que vão e buscam."
-    },
-    {
-        "id": 22,
-        "quote": "Bem-aventurados aqueles que podem dar sem lembrar e levar sem esquecer."
-    },
-    {
-        "id": 23,
-        "quote": "Não levante sua voz, melhore seu argumento."
-    },
-    {
-        "id": 24,
-        "quote": "O sucesso é conhecer o seu propósito na vida, crescer para alcançar o seu potencial máximo e semear as sementes que beneficiam os outros."
-    },
-    {
-        "id": 25,
-        "quote": "O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso."
-    },
-    {
-        "id": 26,
-        "quote": "O que nos parece como julgamentos amargos são muitas vezes bênçãos disfarçadas."
-    },
-    {
-        "id": 27,
-        "quote": "Oportunidades não acontecem, você as cria."
-    },
-    {
-        "id": 28,
-        "quote": "O significado da vida é encontrar o seu dom. O propósito da vida é entregá-lo."
-    },
-    {
-        "id": 29,
-        "quote": "A vida não é sobre encontrar a si mesmo. A vida é sobre criar você mesmo."
-    },
-    {
-        "id": 30,
-        "quote": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam."
-    },
-    {
-        "id": 31,
-        "quote": "As coisas funcionam melhor para aqueles que fazem o melhor de como as coisas funcionam."
-    },
-    {
-        "id": 32,
-        "quote": "Grandes mentes discutem ideias; mentes comuns discutem eventos; mentes pequenas discutem pessoas."
-    },
-    {
-        "id": 33,
-        "quote": "Se você quer alcançar a excelência, pode chegar lá hoje. A partir deste segundo, pare de fazer um trabalho menos que excelente."
-    },
-    {
-        "id": 34,
-        "quote": "Empreendedores de sucesso são doadores e não tomadores de energia positiva."
-    },
-    {
-        "id": 35,
-        "quote": "Se você não pode explicar isso simplesmente, você não entende bem o suficiente."
-    },
-    {
-        "id": 36,
-        "quote": "Para viver uma vida criativa, devemos perder o medo de estar errado."
-    },
-    {
-        "id": 37,
-        "quote": "É melhor falhar na originalidade do que ter sucesso na imitação."
-    },
-    {
-        "id": 38,
-        "quote": "Nosso maior medo não deve ser o fracasso, mas o sucesso nas coisas da vida que realmente não importam."
-    },
-    {
-        "id": 39,
-        "quote": "Você mede o tamanho da conquista pelos obstáculos que você teve que superar para alcançar seus objetivos."
-    },
-    {
-        "id": 40,
-        "quote": "Nenhuma obra-prima foi criada por um artista preguiçoso."
-    },
-    {
-        "id": 41,
-        "quote": "Um verdadeiro empreendedor é alguém que não tem rede de segurança por baixo dele."
-    },
-    {
-        "id": 42,
-        "quote": "Coragem é resistência ao medo, domínio do medo - não ausência de medo."
-    },
-    {
-        "id": 43,
-        "quote": "Todos os nossos sonhos podem se tornar realidade se tivermos coragem de persegui-los."
-    },
-    {
-        "id": 44,
-        "quote": "Quando me atrevo a ser poderoso, usar minha força no serviço da minha visão, torna-se cada vez menos importante se eu tenho medo."
-    },
-    {
-        "id": 45,
-        "quote": "Pensar deve se tornar seu ativo de capital, não importa os altos e baixos que você encontra em sua vida."
-    },
-    {
-        "id": 46,
-        "quote": "Seja miserável ou se motive. O que quer que tenha que ser feito, é sempre sua escolha."
-    },
-    {
-        "id": 47,
-        "quote": "Quando você para de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você."
-    },
-    {
-        "id": 48,
-        "quote": "Eu não quero chegar ao fim da minha vida e descobrir que eu vivi apenas o comprimento dela. Eu quero ter vivido a largura também."
-    },
-    {
-        "id": 49,
-        "quote": "Para ser bem-sucedido, você deve aceitar todos os desafios que surgem em seu caminho. Você não pode simplesmente aceitar os que você gosta."
-    },
-    {
-        "id": 50,
-        "quote": "Se você não valoriza seu tempo, nem os outros irão. Pare de doar seu tempo e talentos - comece a cobrar por isso."
-    }
+[
+    { "id": 0, "quote": "andar de bicicleta imaginária", "author": "lucassacrament0" },
+    { "id": 1, "quote": "imitar um gato se espreguiçando", "author": "lucassacrament0" },
+    { "id": 2, "quote": "tocar guitarra imaginária", "author": "lucassacrament0" },
+    { "id": 3, "quote": "remar um barco", "author": "lucassacrament0" },
+    { "id": 4, "quote": "subir em uma escada invisível", "author": "lucassacrament0" },
+    { "id": 5, "quote": "pescar um peixe grande", "author": "lucassacrament0" },
+    { "id": 6, "quote": "dirigir um carro de corrida", "author": "lucassacrament0" },
+    { "id": 7, "quote": "jogar basquete e fazer cesta", "author": "lucassacrament0" },
+    { "id": 8, "quote": "plantar uma árvore", "author": "lucassacrament0" },
+    { "id": 9, "quote": "andar na corda bamba", "author": "lucassacrament0" },
+    { "id": 10, "quote": "voar como um pássaro", "author": "lucassacrament0" },
+    { "id": 11, "quote": "imitar um elefante", "author": "lucassacrament0" },
+    { "id": 12, "quote": "andar na lua", "author": "lucassacrament0" },
+    { "id": 13, "quote": "nadar como um peixe", "author": "lucassacrament0" },
+    { "id": 14, "quote": "tocar piano imaginário", "author": "lucassacrament0" },
+    { "id": 15, "quote": "cavar um buraco", "author": "lucassacrament0" },
+    { "id": 16, "quote": "pular corda", "author": "lucassacrament0" },
+    { "id": 17, "quote": "fazer malabarismo com bolas invisíveis", "author": "lucassacrament0" },
+    { "id": 18, "quote": "imitar um robô", "author": "lucassacrament0" },
+    { "id": 19, "quote": "fazer yoga", "author": "lucassacrament0" },
+    { "id": 20, "quote": "surfando em uma onda imaginária", "author": "lucassacrament0" },
+    { "id": 21, "quote": "tocar bateria invisível", "author": "lucassacrament0" },
+    { "id": 22, "quote": "fazer caretas engraçadas", "author": "lucassacrament0" },
+    { "id": 23, "quote": "abraçar um urso gigante", "author": "lucassacrament0" },
+    { "id": 24, "quote": "escalar uma montanha", "author": "lucassacrament0" },
+    { "id": 25, "quote": "tirar uma selfie imaginária", "author": "lucassacrament0" },
+    { "id": 26, "quote": "imitar uma árvore balançando com o vento", "author": "lucassacrament0" },
+    { "id": 27, "quote": "pular de paraquedas", "author": "lucassacrament0" },
+    { "id": 28, "quote": "andar como um zumbi", "author": "lucassacrament0" },
+    { "id": 29, "quote": "empurrar um carrinho de supermercado", "author": "lucassacrament0" },
+    { "id": 30, "quote": "dançar como se estivesse sozinho em casa", "author": "lucassacrament0" },
+    { "id": 31, "quote": "atirar uma bola de basquete", "author": "lucassacrament0" },
+    { "id": 32, "quote": "abraçar uma pessoa invisível", "author": "lucassacrament0" },
+    { "id": 33, "quote": "simular que está pescando em alto mar", "author": "lucassacrament0" },
+    { "id": 34, "quote": "imitar um foguete decolando", "author": "lucassacrament0" },
+    { "id": 35, "quote": "andar de skate imaginário", "author": "lucassacrament0" },
+    { "id": 36, "quote": "fingir que está comendo uma pizza enorme", "author": "lucassacrament0" },
+    { "id": 37, "quote": "imitar um leão rugindo", "author": "lucassacrament0" },
+    { "id": 38, "quote": "tocar violino imaginário", "author": "lucassacrament0" },
+    { "id": 39, "quote": "fingir que está escalando uma parede de escalada", "author": "lucassacrament0" },
+    { "id": 40, "quote": "imitar um coelho pulando", "author": "lucassacrament0" },
+    { "id": 41, "quote": "fazer de conta que está pescando no lago", "author": "lucassacrament0" },
+    { "id": 42, "quote": "simular que está limpando a casa", "author": "lucassacrament0" },
+    { "id": 43, "quote": "imitar um pinguim andando", "author": "lucassacrament0" },
+    { "id": 44, "quote": "fingir que está jogando futebol", "author": "lucassacrament0" },
+    { "id": 45, "quote": "tocar flauta imaginária", "author": "lucassacrament0" },
+    { "id": 46, "quote": "fazer de conta que está correndo uma maratona", "author": "lucassacrament0" },
+    { "id": 47, "quote": "imitar alguém surfando na neve", "author": "lucassacrament0" },
+    { "id": 48, "quote": "fingir que está andando de trem", "author": "lucassacrament0" },
+    { "id": 49, "quote": "simular que está acendendo uma fogueira", "author": "lucassacrament0" },
+    { "id": 50, "quote": "fingir que está fazendo malabarismo com facas de mentira", "author": "lucassacrament0" }
 ]
